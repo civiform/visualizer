@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*_flowchart.html
+.env
+.venv/
+venv/
+.DS_Store
+Thumbs.db
